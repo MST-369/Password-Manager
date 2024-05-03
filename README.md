@@ -27,4 +27,4 @@ ______________________________________________________________________________
                          **ADMIN PAGE**
 
 ![image](https://github.com/MST-369/Password-Manger/assets/145525421/af11c78f-bfde-4bdb-9d60-4e49456a473b)
-                       **FIRST USER PAGE**
+               **FIRST USER PAGE**
