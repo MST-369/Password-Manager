@@ -2,7 +2,7 @@
 
 ______________________________________________________________________________ 
 
-Features it has: 
+*Features it has:* 
 
 1. It can generate a strong random password, used AES to store the encrypted passwords in DB. 
 
@@ -14,12 +14,17 @@ Features it has:
 
   
 
-Steps to Procced: 
+*Steps to Procced:*
 
 1. Always run - home.py with command streamlit run "./Home.py" 
 
 2. Keep the firstuserp.y and admin.py in a folder /pages/ 
 
-![image](https://github.com/MST-369/Password-Manger/assets/145525421/579ade39-d24b-4875-a63b-a6ce95560c13)
-![image](https://github.com/MST-369/Password-Manger/assets/145525421/79432761-7dcc-4ada-b27d-57731da02163)
-![image](https://github.com/MST-369/Password-Manger/assets/145525421/3de15255-7362-4300-9de8-801d0118497f)
+![image](https://github.com/MST-369/Password-Manger/assets/145525421/0d4d6add-c683-42f6-bccc-420faa7357f2)
+********************************HOME PAGE********************************
+
+![image](https://github.com/MST-369/Password-Manger/assets/145525421/435233f9-95a1-409b-93e1-b3bf177993b5)
+********************************ADMIN PAGE********************************
+
+![image](https://github.com/MST-369/Password-Manger/assets/145525421/af11c78f-bfde-4bdb-9d60-4e49456a473b)
+******************************FIRST USER PAGE******************************
